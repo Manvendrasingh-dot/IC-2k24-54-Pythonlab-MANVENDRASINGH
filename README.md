@@ -1,56 +1,50 @@
-# IC-2k24-54-Pythonlab-MANVENDRASINGH
-1. variable_practice.py
-Aim:Declare name, age, height, is_student variables and print each with its type.
-Logic: Assigned four variables of different types, then printed each with `type()`.
-Sample Output:
-Name: Manvendra 
-Age: 20 
-Height: 5.11
-Is Student: True
+# Python Lab
+This repository contains Python programs completed as part of the Python Lab session.
+
+Repository Information
+Student Name: Manvendra singh
+Roll Number: IC-2K24-54
+Lab: Python Lab
+
+Lab 1
+Lab 1 contains basic Python programs covering variables, input/output, arithmetic operations, strings, escape sequences, and a menu-driven calculator.
+
+Programs Included
+Variable and Identifier Practice - Demonstrates variables and their data types.
+Greeting Program - Takes name, age, and city as input and displays a greeting using an f-string.
+Arithmetic Operations - Performs basic arithmetic operations on two numbers.
+Celsius to Fahrenheit - Converts temperature from Celsius to Fahrenheit.
+String Manipulation - Performs different operations on a full name using string methods.
+Escape Sequence Practice - Demonstrates the use of \t and \n using a simple receipt.
+Menu Driven Calculator - Performs basic arithmetic operations through a menu-driven calculator.
+Lab 2
+Lab 2 contains Python programs based on functions, loops, recursion, nested loops, user-defined modules, input validation, and the random module.
+
+Programs Included
+Armstrong Number - Checks whether a number is an Armstrong number and prints Armstrong numbers within a given range.
+Prime Number - Checks whether a number is prime and prints prime numbers up to a given limit.
+Perfect Number - Checks whether a number is a perfect number and prints perfect numbers up to a given limit.
+Palindrome - Checks whether a number and a string are palindromes.
+Fibonacci Series - Generates the Fibonacci series using both loops and recursion.
+Pattern Printing - Prints star, number, and centered pyramid patterns using nested loops.
+Menu-Driven Application - Combines the programs from Lab 2 into a single menu-driven application.
+Number Guessing Game - Generates a random number and allows the user to guess it within a maximum number of attempts.
+Lab 3 - Pattern Printing
+This folder contains Python programs for different star and number patterns.
+
+Programs Included:
+Inverted Triangle Pattern
+Square Triangle Pattern
+Pyramid Pattern
+Diamond Pattern
+Number Pattern
+Lab 4 - Pattern Printing
+This folder contains Python programs for different star and number patterns.
+
+Programs Included:
+butterfly pattern
+Hollow triangle
+and  Matrix_operation
+this folder contains Python programs for matrix operations
 
 
-
- 2. greeting.py
-Aim: Take name, age, city as input and print one greeting sentence.
-Logic: Took three inputs, combined them into one sentence with an f-string.
-Sample I/O Input: Manvendra, 20, dewas
-Output: Hi, my name is Manvendra, I am 20 years old and I live in dewas.
-
-
-
-3. arithmetic.py
-Aim: Take two numbers and print sum, difference, product, quotient, remainder.
-Logic: Read two floats, applied `+ - * / %`, printed each with a label.
-Sample I/O input: 15, 4
-output: sum: 19.0, Difference: 11.0, Product: 60.0, Quotient: 3.75, Remainder: 3.0
-
-
-
- 4. celsius_to_fahrenheit.py
-Aim: Convert Celsius input to Fahrenheit.
-Logic: Converted input to float, applied `F = (C * 9/5) + 32`.
-Sample I/O Input: 37
-Output: 37.0 degrees Celsius is equal to 98.6 degrees Fahrenheit.
-
-
-
-
-5. string_manipulation.py
-Aim: Take a full name and print it uppercase, lowercase, reversed, with its length.
-Logic:Used `.upper()`, `.lower()`, slicing `[::-1]`, and `len()`.
-Sample I/O: Input: Manvendra Singh
-Output: MANVENDRA SINGH / manvendra singh / hgniS ardnevnaM / Length: 16
-
-
-
-6. escape_sequence.py
-Aim: Print a receipt-style output using `\t` and `\n`.
-Logic: Used `\t` to align item/price columns, `\n` for spacing before total.
-Sample I/O:
-  RECEIPT 
-Item             Price
-Notebook        100RS
-Pen             10RS
-Water Bottle    20RS
-
-Total:          130RS
