@@ -9,6 +9,7 @@ Roll Number: IC-2K24-54
 
 Lab: Python Lab
 
+
 Lab 1
 Lab 1 contains basic Python programs covering variables, input/output, arithmetic operations, strings, escape sequences, and a menu-driven calculator.
 
@@ -20,6 +21,7 @@ Celsius to Fahrenheit - Converts temperature from Celsius to Fahrenheit.
 String Manipulation - Performs different operations on a full name using string methods.
 Escape Sequence Practice - Demonstrates the use of \t and \n using a simple receipt.
 Menu Driven Calculator - Performs basic arithmetic operations through a menu-driven calculator.
+
 Lab 2
 Lab 2 contains Python programs based on functions, loops, recursion, nested loops, user-defined modules, input validation, and the random module.
 
@@ -32,6 +34,7 @@ Fibonacci Series - Generates the Fibonacci series using both loops and recursion
 Pattern Printing - Prints star, number, and centered pyramid patterns using nested loops.
 Menu-Driven Application - Combines the programs from Lab 2 into a single menu-driven application.
 Number Guessing Game - Generates a random number and allows the user to guess it within a maximum number of attempts.
+
 Lab 3 - Pattern Printing
 This folder contains Python programs for different star and number patterns.
 
@@ -41,6 +44,7 @@ Square Triangle Pattern
 Pyramid Pattern
 Diamond Pattern
 Number Pattern
+
 Lab 4 - Pattern Printing
 This folder contains Python programs for different star and number patterns.
 
