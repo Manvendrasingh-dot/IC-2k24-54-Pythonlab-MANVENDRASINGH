@@ -51,7 +51,9 @@ This folder contains Python programs for different star and number patterns.
 Programs Included:
 butterfly pattern
 Hollow triangle
-and  Matrix_operation
+
+and  
+Matrix_operation
 this folder contains Python programs for matrix operations
 
 
