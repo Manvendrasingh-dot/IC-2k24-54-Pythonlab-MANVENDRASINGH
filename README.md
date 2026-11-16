@@ -2,8 +2,11 @@
 This repository contains Python programs completed as part of the Python Lab session.
 
 Repository Information
+
 Student Name: Manvendra singh
+
 Roll Number: IC-2K24-54
+
 Lab: Python Lab
 
 Lab 1
